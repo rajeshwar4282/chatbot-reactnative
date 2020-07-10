@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "HelloWorld",
+    "name": "chatbot",
     "slug": "react-chatbot",
     "platforms": [
       "ios",
