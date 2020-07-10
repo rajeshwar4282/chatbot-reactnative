@@ -1,6 +1,6 @@
      CHATBOT IN REACTNATIVE
 
-<img src="https://miro.medium.com/max/4000/1*m9IJdAYW04MYh75ivpwUNA.png" width="250" height="230">
+<img src="https://miro.medium.com/max/4000/1*m9IJdAYW04MYh75ivpwUNA.png" width="300" height="230">
    
 1.INSTALLING DEPENDENCIES FOR CHATBOT
   To build a chatbot in react native we have to install few dependencies 
@@ -47,5 +47,11 @@
       
         npm start
         
+  <img src="images/1.png"  width="250" height="500" > &nbsp;&nbsp;<img src="images/2.png"  width="250" height="500" >&nbsp;&nbsp; <img src="images/3.png"  width="250" height="500">
   
+  
+ <img src="images/4.png"  width="250" height="500" > &nbsp;&nbsp;<img src="images/5.png"  width="250" height="500" >&nbsp;&nbsp; <img src="images/6.png"  width="250" height="500">
+  
+ <img src="images/7.png"  width="250" height="500" > &nbsp;&nbsp;<img src="images/8.png"  width="250" height="500" >&nbsp;&nbsp; <img src="images/9.png"  width="250" height="500">
+  <img src="images/10.png"  width="250" height="500" >
   
